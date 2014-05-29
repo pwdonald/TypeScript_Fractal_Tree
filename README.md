@@ -1,4 +1,6 @@
-TypeScript_Fractal_Tree
+TypeScript Simple Fractal Tree Generator
 =======================
 
-A simple fractal tree generator written in TypeScript.
+![Screenshot](Fractals/fractal_tree.png)
+
+This will generate a random fractal tree with various colors on the end nodes.
